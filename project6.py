@@ -21,5 +21,3 @@ while number != answer:
     number = int(input("Enter you're next number : ")) 
 
 print(">>>  Answer is :",answer," <<<")
-    
-
