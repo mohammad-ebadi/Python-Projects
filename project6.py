@@ -17,6 +17,6 @@ while number != answer:
 
     number = int(input("Enter you're next number : ")) 
 
-print(">>>  Javab is :",answer," <<<")
+print(">>>  Answer is :",answer," <<<")
     
 
