@@ -5,6 +5,7 @@ import random
 answer = random.randint(1,100)
 print(">>>",answer,"<<<")
 print("...........................................\n")
+
 number = int(input("Please enter a number in range (1-100) :"))
 
 while number != answer:
