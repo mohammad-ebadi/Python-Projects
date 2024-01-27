@@ -1,3 +1,4 @@
+# Father and son age difference
 f=int(input("Father Age :"))
 s=int(input("Son Age : "))
 
