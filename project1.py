@@ -1,3 +1,4 @@
+# Rectangle Area Calculator 
 y = int(input("Enter Y :"))
 x = int(input("Enter X :"))
 
