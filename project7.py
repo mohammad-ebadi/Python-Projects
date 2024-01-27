@@ -1,4 +1,4 @@
-# Number Guessing Game revers version
+# Number Guessing Game (revers version)
 import random
 a = 1
 b = 100
