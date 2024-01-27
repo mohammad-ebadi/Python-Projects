@@ -1,4 +1,4 @@
-# Income Calculator for a (day/mounth/year) (by using function)
+# Income Calculator for a (day/mounth/year)(by using function)
 
 def income():
     print("\n..........<<< Welcome >>>..........\n")
