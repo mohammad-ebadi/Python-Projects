@@ -1,5 +1,5 @@
 ## Python-Projects
-This repo is for practicing python language programming .
+This repo is for practicing Python language programming.
 
     print("Hello Universe")
 [My personal website is here ...](https://www.mohammadebadi.com/)
