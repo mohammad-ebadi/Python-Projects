@@ -1,10 +1,10 @@
-# Average number calculator
+# Average Number Calculator
 count = 0
-totall = 0
+total = 0
 number = int(input("Enter a number :"))
 
 while number != -1:
-    totall = totall + number
+    total = total + number
     count = count + 1
     number = int(input("Enter a number :"))
-print(">>> Avg : ", totall/count)
+print(">>> Avg : ", total/count)
