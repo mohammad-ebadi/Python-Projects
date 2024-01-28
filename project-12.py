@@ -8,3 +8,4 @@ while number != -1:
     count = count + 1
     number = int(input("Enter a number :"))
 print(">>> Avg : ", total/count)
+

@@ -1,4 +1,4 @@
-# Guess in rang(1-100)and count your guesses when you reach a specific number.
+# Guess in range(1-100)and count your guesses when you reach a specific number.
 import random
 
 x = 5
