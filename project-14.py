@@ -1,4 +1,6 @@
 # Voice change with hand movement
+#first of all you have to type " pip install opencv-python 
+# & then type "pip install mediapipe"
 import cv2
 import mediapipe as mp
 import math
