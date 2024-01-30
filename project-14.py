@@ -1,6 +1,6 @@
 # Volume Change With Hand Movement
 # first of all you have to type " pip install opencv-python 
-# & then type "pip install mediapipe"
+# & then type "pip install mediapipe in the terminal to install some Requirement modules "
 import cv2
 import mediapipe as mp
 import math
