@@ -9,4 +9,3 @@ while names != "":
         name_list.append(name)
         
 print(">>> Members Name : ",name_list)
-
